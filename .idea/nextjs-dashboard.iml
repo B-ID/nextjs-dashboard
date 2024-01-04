@@ -8,5 +8,9 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+<<<<<<< HEAD
+=======
+    <orderEntry type="module" module-name="OpusQuiver-UI" />
+>>>>>>> 0fb361eb0b50f7dc2609e3ed75d4d586857111b0
   </component>
 </module>
