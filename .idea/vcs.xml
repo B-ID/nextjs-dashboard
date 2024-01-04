@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="" vcs="Git" />
-<<<<<<< HEAD
-=======
-    <mapping directory="$PROJECT_DIR$/../OpusQuiver-UI" vcs="Git" />
->>>>>>> 0fb361eb0b50f7dc2609e3ed75d4d586857111b0
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
 </project>
